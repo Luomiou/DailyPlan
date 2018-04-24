@@ -1,0 +1,2 @@
+中文解说：https://blog.csdn.net/ooo123lll/article/details/79640972
+英文列表：https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
