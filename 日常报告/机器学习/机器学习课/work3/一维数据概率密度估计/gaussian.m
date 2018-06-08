@@ -1,0 +1,5 @@
+function p = gaussian(x,y,h)
+%≈–∂œx,y÷Æº‰µƒæ‡¿Î
+dis = (x-y)/h;
+p = 1/((2*pi)^(1/2))*exp((-1/2)*dis*dis);
+end
